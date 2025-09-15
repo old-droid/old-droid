@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web apps, python, machine learning and blah blah blah 
 - 🌱 I’m currently learning ... machine learning 
 
-- 📫 How to reach me ... pancake857@gmail.com
+- 📫 How to reach me ... mohammedamaan007@gmail.com
 - 😄 Pronouns: ...old.....void!
 
 ..
