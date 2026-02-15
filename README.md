@@ -3,14 +3,7 @@
 # 🤖 Welcome to the Void: @old-droid
 
 <!-- Typing SVG - Terminal Look -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System.init(old-droid);Ghost+in+the+machine...;Neural+networks+loading...;Architecting+digital+realms." alt="Typing SVG" />
-
-<br>
-
-<!-- Cool Anime Cyberpunk GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN6YnZ3ZW54Z2V3Z2V3Z2V3Z2V3Z2V3Z2V3Z2V3Z2V3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/61O8o0u29k60/giphy.gif" width="400" alt="Cyberpunk Anime">
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System.init(old-droid);Ghost+in+the+machine+for+no+reason...;Neural+networks+loading...;Architecting+digital+realms." alt="Typing SVG" />
 
 <!-- SPINNING RETRO SNAKE - Just Chillin' -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5bmNlZnl3ZnhueHpxZW54Z2V3Z2V3Z2V3Z2V3Z2V3Z2V3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l2SpUNm890F3u3tQk/giphy.gif" width="100" alt="Pixel Snake Chillin">
