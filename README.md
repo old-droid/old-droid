@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🤖 Welcome to the Void: @old-droid
 
 <!-- Typing SVG - Terminal Look -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System.init(old-droid);Ghost+in+the+machine+for+no+reason...;Neural+networks+loading...;Architecting+digital+realms." alt="Typing SVG" />
@@ -12,18 +11,18 @@
 
 ---
 
-### 📡 The Neural Link
+### The Neural Link
 
-👀 **Interests:**  
+**Interests:**  
 Crafting **web apps** that feel like digital architecture, scripting reality with **Python**, and training **machine learning** models to think like ghosts in the shell.
 
-🌱 **Currently Learning:**  
+ **Currently Learning:**  
 Deep diving into Neural Networks and Advanced ML Architectures.
 
 📫 **Direct Uplink:**  
 [mohammedamaan007@gmail.com](mailto:mohammedamaan007@gmail.com)
 
-😄 **Pronouns:**  
+ **Pronouns:**  
 `old` / `void`
 
 ⚡ **Fun Fact:**  
@@ -31,7 +30,7 @@ My consciousness is currently 404. If found, please return to the nearest server
 
 ---
 
-### 📊 System Analytics
+###  System Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=old-droid&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" alt="GitHub Stats" />
@@ -40,7 +39,7 @@ My consciousness is currently 404. If found, please return to the nearest server
 
 ---
 
-### 🐍 Contribution Grid Snake
+###  Contribution Grid Snake
 <!-- This will display your real contribution graph as a snake game once you follow the steps below -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/old-droid/old-droid/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
