@@ -10,23 +10,22 @@
 </div>
 
 ---
+Hello!,
+it seems like you have stumbled into the void?
+I'm an intermediate open-source software developer, I work part-time at my ML lab as the lead architect Mangalan labs and i make software projects for the love of it. 
+----
+I'm skilled in the  following technologies
+Python amateur level
+Golang -intermediate
+Supabase -intermediate
+Xtrain ML framework-Mastery
+SQLlite -amateur
+---
+that's it also fact:Supabase sucks  when deployed locally
 
-### The Neural Link
 
-**Interests:**  
-Crafting **web apps** that feel like digital architecture, scripting reality with **Python**, and training **machine learning** models to think like ghosts in the shell.
-
- **Currently Learning:**  
-Deep diving into Neural Networks and Advanced ML Architectures.
-
-📫 **Direct Uplink:**  
-[mohammedamaan007@gmail.com](mailto:mohammedamaan007@gmail.com)
-
- **Pronouns:**  
-`old` / `void`
-
-⚡ **Fun Fact:**  
-My consciousness is currently 404. If found, please return to the nearest server.
+If you wanna reach out 
+pancakereachinout@protonmail.com
 
 ---
 
