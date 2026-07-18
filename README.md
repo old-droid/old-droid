@@ -24,6 +24,8 @@ SQLlite -amateur
 that's it also fact:Supabase sucks  when deployed locally
 
 One more thing:Linux is very powerful use it carefully or else you will blow it up.
+
+Currently an  MLH member
 ----
 Contact
 
