@@ -44,9 +44,4 @@ or DM at pancake76_ on discord plz dont spam.
 </div>
 
 ---
-
-###  Contribution Grid Snake
-<!-- This will display your real contribution graph as a snake game once you follow the steps below -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/old-droid/old-droid/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+Cya!
